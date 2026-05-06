@@ -72,3 +72,32 @@ console.log(frase);
 //     CHE USERO' DENTRO ALLA FUNZIONE.  ) ;
 
 //Nelle Funzioni, salvo variabili se le volessi poi riusare ;
+
+
+// altro metodo personale per esercitazione, usare il metodo ed un array. Cose , che offre javascript, metodo: reverse (inverte ordine elemeneti dentro al array) ed .join: lo usi per prendere tutti gli elementi dell'array ed usarli a far una stringa unica(puoi anche usarlo per creare e dare uno spazio (che immette ad ogni elemento))..
+
+// let pezziFrase = ["anni" , 31, "ho", "ed", "Nagero","Anita", "sono", "Ciao,"];
+
+
+// function riordinaEStampa(array) {
+
+//     //non è ordinato allora:
+
+//     let arrayOrdinato = array.reverse();
+
+//     //array diventato qui 1 unica stringa e separato ed ordinato 
+
+//     let fraseFinale = arrayOrdinato.join( " ");
+
+//     return fraseFinale;
+// }
+
+
+// console.log(riordinaEStampa(pezziFrase));
+
+
+//(oppure : con la funzione)
+
+
+
+
